@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Leonardo Sant ana Silva
+🧑‍💻 # Leonardo Sant ana Silva
 
 **`Desenvolvedor full-stack`**
 
