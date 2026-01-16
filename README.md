@@ -71,12 +71,17 @@ Este é um perfil novo onde vou publicar alguns projetos, experimentos e coisas 
   title="Power BI"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg"
 />
-          
-## Tecnologias
 
-Python, SQL, HTML e CSS, Microsoft Power BI e Microsoft Office.
+<img
+  align="left"
+  alt="Microsoft Office"
+  title="Microsoft Office"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftoffice.svg"
+/>
 
 ## Um pouco sobre mim
 
