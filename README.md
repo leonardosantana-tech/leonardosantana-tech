@@ -71,7 +71,7 @@ Este é um perfil novo onde vou publicar alguns projetos, experimentos e coisas 
   title="Power BI"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg](https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg"
 />
 
 <img
@@ -80,7 +80,7 @@ Este é um perfil novo onde vou publicar alguns projetos, experimentos e coisas 
   title="Microsoft Office"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftoffice.svg"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftoffice.svg](https://www.clipartmax.com/middle/m2i8Z5m2G6A0Z5K9_microsoft-office-microsoft-office-icon-svg"
 />
 
 <br/><br/>
