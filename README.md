@@ -30,8 +30,11 @@ Python, SQL, HTML e CSS, Microsoft Power BI e Microsoft Office.
 ## Um pouco sobre mim
 
 🐈 Tenho dois gatos
+
 ☕ O café tem se tornado um amigo e inimigo na mesma medida
+
 🏃 Curto esportes como basquete e futebol
+
 🗣️ Acredito que comunicação é uma habilidade subestimada
 
 ## Contato 
