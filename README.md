@@ -83,6 +83,8 @@ Este é um perfil novo onde vou publicar alguns projetos, experimentos e coisas 
   src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftoffice.svg"
 />
 
+<br/><br/>
+
 ## Um pouco sobre mim
 
 🐈 Tenho dois gatos
