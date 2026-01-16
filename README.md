@@ -26,6 +26,54 @@ Também gosto de utilizar o Canva para edição e criação de fotos.
 
 Este é um perfil novo onde vou publicar alguns projetos, experimentos e coisas em que estou trabalhando atualmente. 
 
+
+## Tecnologias
+
+<img
+  align="left"
+  alt="Python"
+  title="Python"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+  align="left"
+  alt="SQL"
+  title="SQL"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+
+<img
+  align="left"
+  alt="CSS"
+  title="CSS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Power BI"
+  title="Power BI"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"
+/>
+          
 ## Tecnologias
 
 Python, SQL, HTML e CSS, Microsoft Power BI e Microsoft Office.
