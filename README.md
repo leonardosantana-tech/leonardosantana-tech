@@ -71,7 +71,7 @@ Este é um perfil novo onde vou publicar alguns projetos, experimentos e coisas 
   title="Power BI"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg?color=F2C811"
+  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg?color=F2C811](https://i0.wp.com/begincodingnow.com/wp-content/uploads/2017/09/New_Power_BI_Logosvg.png?fit=630%2C630&ssl=1.svg"
 />
 
 <img
