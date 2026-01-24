@@ -85,7 +85,7 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
 
 <p align="left">
   <a href="https://github.com/leonardosantana-tech">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   </a>
   <a href="https://www.linkedin.com/in/leonardo-sant-ana-silva-131969375/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original" />
@@ -94,8 +94,3 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
     <img src="http://www.w3.org/2000/svg" />
   </a>
 </p>
-
-## 🌏 Site
-<p>
-  <a href="https://leonardosantana.vercel.app/">
-  </a>
