@@ -83,14 +83,14 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
 
 ## 🌐 Contato
 
-<p align="left">
-  <a href="https://github.com/leonardosantana-tech">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<div align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-sant-ana-silva-131969375/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/leonardosantana-tech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/leonardo_sant_ana_?igsh=MW9vaHI5NjcwdWNiMA%3D%3D&utm_source=qr)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:leonardodevsantana@outlook.com)
+</div>
+
+## 🌏 Site
+<p>
+  <a href="https://leonardosantana.vercel.app/">
   </a>
-  <a href="https://www.linkedin.com/in/leonardo-sant-ana-silva-131969375/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original" />
-  </a>
-  <a href="https://www.instagram.com/leonardo_sant_ana_?igsh=MW9vaHI5NjcwdWNiMA%3D%3D&utm_source=qr">
-    <img src="http://www.w3.org/2000/svg" />
-  </a>
-</p>
