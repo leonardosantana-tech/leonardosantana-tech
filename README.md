@@ -46,6 +46,14 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 <br/><br/>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardosantana-tech&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantana-tech&layout=compact&theme=tokyonight" />
+</p>
+
 ## 🌐 Contato
 
 <p align="left">
