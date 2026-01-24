@@ -85,9 +85,8 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
 
 <p align="left">
   <a href="https://www.linkedin.com/in/leonardo-sant-ana-silva-131969375/">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-LEONARDO%20SANTANA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
 
   <a href="https://github.com/leonardosantana-tech">
     <img src="https://img.shields.io/badge/GitHub-LEONARDOSANTANA--TECH-181717?style=for-the-badge&logo=github&logoColor=white" />
