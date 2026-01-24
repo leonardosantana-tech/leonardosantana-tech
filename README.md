@@ -89,7 +89,7 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
   </a>
 
   <a href="https://github.com/leonardosantana-tech">
-    <img src="https://img.shields.io/badge/GitHub-LEONARDOSANTANA--TECH-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-LEONARDOSANTANA--TECH-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://www.instagram.com/leonardo_sant_ana_?igsh=MW9vaHI5NjcwdWNiMA%3D%3D&utm_source=qr">
@@ -97,7 +97,7 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
   </a>
 
   <a href="mailto:leonardodevsantana@outlook.com">
-    <img src="https://img.shields.io/badge/Email-LEONARDO%20SANTANA-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-OUTLOOK-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
 
