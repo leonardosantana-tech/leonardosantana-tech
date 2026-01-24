@@ -16,16 +16,12 @@ Here are some ideas to get you started:
 -->
 # 🧑‍💻 Leonardo Sant ana Silva
 
-**`Desenvolvedor full-stack`**
+🚀 **Desenvolvedor Full-Stack | Front-End & Dados**
+🇧🇷 Brasil
 
-Eu sou um desenvolver full-stack e estudante de análise e desenvolvimento de sistemas do Brasil.
+Desenvolvo **aplicações web, automações** e **soluções orientadas a dados,** sempre com foco em código limpo, resultados práticos e aprendizado contínuo. 
 
-Minha linguagem preferida do momento é Python, pela simplicidade da sintaxe e sua versatilidade.
-
-Também gosto de utilizar o Canva para edição e criação de fotos.
-
-Este é um perfil novo onde vou publicar alguns projetos, experimentos e coisas em que estou trabalhando atualmente. 
-
+Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back-end** e **dados**, buscando crescer profissionalmente e gerar impacto real.
 
 ## Tecnologias
 
@@ -85,16 +81,21 @@ Este é um perfil novo onde vou publicar alguns projetos, experimentos e coisas 
 
 <br/><br/>
 
-## Um pouco sobre mim
+## 🌐 Contato
 
-🐈 Tenho dois gatos
+<p align="left">
+  <a href="https://github.com/leonardosantana-tech">
+    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-sant-ana-silva-131969375/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original" />
+  </a>
+  <a href="https://www.instagram.com/leonardo_sant_ana_?igsh=MW9vaHI5NjcwdWNiMA%3D%3D&utm_source=qr">
+    <img src="http://www.w3.org/2000/svg" />
+  </a>
+</p>
 
-☕ O café tem se tornado um amigo e inimigo na mesma medida
-
-🏃 Curto esportes como basquete e futebol
-
-🗣️ Acredito que comunicação é uma habilidade subestimada
-
-## Contato 
-
-Você consegue me achar facilmente no LinkedIn 😊
+## 🌏 Site
+<p>
+  <a href="https://leonardosantana.vercel.app/">
+  </a>
