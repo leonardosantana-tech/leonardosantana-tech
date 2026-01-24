@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 🧑‍💻 Leonardo Sant ana Silva
 
 🚀 **Desenvolvedor Full-Stack | Front-End & Dados**
-🇧🇷 Brasil
+🇧🇷 
 
 Desenvolvo **aplicações web, automações** e **soluções orientadas a dados,** sempre com foco em código limpo, resultados práticos e aprendizado contínuo. 
 
