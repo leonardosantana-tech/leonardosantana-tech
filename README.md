@@ -25,59 +25,26 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
 
 ## Tecnologias
 
-<img
-  align="left"
-  alt="Python"
-  title="Python"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+### Frontend
 
-<img
-  align="left"
-  alt="SQL"
-  title="SQL"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+### Backend & Automação
 
-<img
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img
-  align="left"
-  alt="Power BI"
-  title="Power BI"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg?color=F2C811](https://i0.wp.com/begincodingnow.com/wp-content/uploads/2017/09/New_Power_BI_Logosvg.png?fit=630%2C630&ssl=1"
-/>
+### Dados
 
-<img
-  align="left"
-  alt="Microsoft Office"
-  title="Microsoft Office"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftoffice.svg?color=D83B01"
-/>
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+
+### Ferramentas
+
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 <br/><br/>
 
@@ -96,8 +63,3 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
     <img src="https://img.shields.io/badge/Instagram-@LEONARDO__SANT__ANA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-## 🌏 Site
-<p>
-  <a href="https://leonardosantana.vercel.app/">
-  </a>
