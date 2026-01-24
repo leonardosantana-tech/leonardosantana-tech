@@ -47,7 +47,6 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 <br/><br/>
-
 ## 🌐 Contato
 
 <p align="left">
