@@ -84,8 +84,8 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
 ## 🌐 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/leonardo-sant-ana-silva-131969375/">
-    <img src="https://img.shields.io/badge/LinkedIn-LEONARDO%20SANTANA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/leonardo-sant-ana-silva-131969375/"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" />
   </a>
 
   <a href="https://github.com/leonardosantana-tech">
@@ -94,10 +94,6 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
 
   <a href="https://www.instagram.com/leonardo_sant_ana_?igsh=MW9vaHI5NjcwdWNiMA%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-@LEONARDO__SANT__ANA-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="mailto:leonardodevsantana@outlook.com">
-    <img src="https://img.shields.io/badge/Email-OUTLOOK-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
 
