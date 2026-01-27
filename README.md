@@ -34,6 +34,7 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
 ### Backend & Automação
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Dados
 
