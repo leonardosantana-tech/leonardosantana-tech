@@ -58,10 +58,7 @@ Tenho interesse em oportunidades nas áreas de desenvolvimento **front-end, back
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leonardosantana-tech&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardosantana-tech&layout=compact&theme=tokyonight" />
-</p>
+<p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardosantana-tech&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosantana-tech&layout=compact&theme=tokyonight" /> </p>
 
 ## 🌐 Contato
 
